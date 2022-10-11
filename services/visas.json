@@ -1,0 +1,58 @@
+[
+  {
+    "visa_id": 0,
+    "visa_name": "Schengen Vizesi",
+    "visa_img": "assets/img/schengen-visa-rules.jpg",
+    "visa_url": "",
+    "visa_type": 1
+  },
+  {
+    "visa_id": 1,
+    "visa_name": "Aile Birleşimi",
+    "visa_img": "assets/img/schengen-visa-rules.jpg",
+    "visa_url": "",
+    "visa_type": 2
+  },
+  {
+    "visa_id": 2,
+    "visa_name": "Almanya İş Arama",
+    "visa_img": "assets/img/schengen-visa-rules.jpg",
+    "visa_url": "",
+    "visa_type": 3
+  },
+  {
+    "visa_id": 3,
+    "visa_name": "Çalışma Vizesi",
+    "visa_img": "assets/img/schengen-visa-rules.jpg",
+    "visa_url": "",
+    "visa_type": 4
+  },
+  {
+    "visa_id": 4,
+    "visa_name": "Turistik Vize",
+    "visa_img": "assets/img/schengen-visa-rules.jpg",
+    "visa_url": "",
+    "visa_type": 4
+  },
+  {
+    "visa_id": 5,
+    "visa_name": "Eğitim Vizesi",
+    "visa_img": "assets/img/schengen-visa-rules.jpg",
+    "visa_url": "",
+    "visa_type": 5
+  },
+  {
+    "visa_id": 6,
+    "visa_name": "İş Arama Vizesi",
+    "visa_img": "assets/img/schengen-visa-rules.jpg",
+    "visa_url": "",
+    "visa_type": 6
+  },
+  {
+    "visa_id": 7,
+    "visa_name": "Şoför Vizesi",
+    "visa_img": "assets/img/schengen-visa-rules.jpg",
+    "visa_url": "",
+    "visa_type": 7
+  }
+]
